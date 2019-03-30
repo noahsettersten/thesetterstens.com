@@ -1,0 +1,37 @@
+baseURL = "http://thesetterstens.com"
+languageCode = "en-us"
+title = "The Settersten Family"
+publishDir = "docs"
+theme = "hermit"
+
+# Other good options:
+# 1. https://themes.gohugo.io/hermit/
+# 2. https://themes.gohugo.io/hugo-theme-hello-friend-ng/
+# 3. https://themes.gohugo.io/hugo-theme-sam/
+
+[author]
+  name = "Noah Settersten"
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  bgImg = "daniel-mccullough-446585-unsplash.jpg"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  themeColor = "#494f5c"
+  homeSubtitle = "Follow us on our pursuit of Christ and serving his church."
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about-hugo/"
+    weight = 20

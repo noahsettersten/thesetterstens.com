@@ -1,4 +1,4 @@
-baseURL = "http://thesetterstens.com"
+baseURL = "https://thesetterstens.com"
 languageCode = "en-us"
 title = "The Settersten Family"
 publishDir = "docs"

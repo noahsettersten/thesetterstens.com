@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://thesetterstens.com/tags/</loc>
+    <loc>https://thesetterstens.com/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thesetterstens.com/</loc>
+    <loc>https://thesetterstens.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://thesetterstens.com/</loc>
     <priority>0</priority>
   </url>
   

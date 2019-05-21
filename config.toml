@@ -10,7 +10,7 @@ theme = "hermit"
 # 3. https://themes.gohugo.io/hugo-theme-sam/
 
 [author]
-  name = "Noah Settersten"
+  name = "The Setterstens"
 
 [taxonomies]
   tag = "tags"
@@ -33,5 +33,5 @@ theme = "hermit"
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about/"
     weight = 20

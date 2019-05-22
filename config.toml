@@ -23,6 +23,7 @@ theme = "hermit"
   dateformNumTime = "2006-01-02 15:04 -0700"
   themeColor = "#494f5c"
   homeSubtitle = "Follow us on our pursuit of Christ and serving his church."
+  # footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   justifyContent = false  # Set "text-align: justify" to `.content`.
 
 [menu]

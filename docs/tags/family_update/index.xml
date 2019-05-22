@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Settersten Family</title>
-    <link>https://thesetterstens.com/</link>
-    <description>Recent content on The Settersten Family</description>
+    <title>family_update on The Settersten Family</title>
+    <link>https://thesetterstens.com/tags/family_update/</link>
+    <description>Recent content in family_update on The Settersten Family</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://thesetterstens.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thesetterstens.com/tags/family_update/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Our Family</title>
-      <link>https://thesetterstens.com/about/</link>
-      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://thesetterstens.com/about/</guid>
-      <description>We&amp;rsquo;re a family on mission for Christ and the building of his church, currently attending Bethlehem College &amp;amp; Seminary to prepare for leadership in ministry.
-We love the outdoors, music of all kinds, good books, and exploring the wide world of trees, birds, flowers, and bugs with our little ones as we drink in the Creator&amp;rsquo;s vivid brushstrokes painted across our earth.</description>
-    </item>
     
     <item>
       <title>March 2019 Update</title>

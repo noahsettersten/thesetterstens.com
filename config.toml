@@ -27,10 +27,10 @@ theme = "hermit"
   justifyContent = false  # Set "text-align: justify" to `.content`.
 
 [menu]
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
+  # [[menu.main]]
+    # name = "posts"
+    # url = "posts/"
+    # weight = 10
 
   [[menu.main]]
     name = "About"

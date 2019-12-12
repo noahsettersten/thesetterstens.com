@@ -1,7 +1,7 @@
 ---
 title: "October 2018 Update"
 date: 2018-10-14
-draft: false
+draft: true
 tags:
   - family_update
 ---
